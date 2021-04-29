@@ -6,6 +6,10 @@ Starlight Romero is a DevOps Engineer currently pursuing an Applied Bachelor's o
 
 ## Projects
 
+[![StockStalker](https://raw.githubusercontent.com/Stock-Stalker/stockstalker/production/frontend/public/assets/icon/icon.png)](https://stockstalker.tk)
+
+[![FigureFinance](https://raw.githubusercontent.com/Figure-Finance/figure/production/frontend/public/logo512.png)](https://figurefinance.tk)
+
 ## Articles
 
 [![The Data Structures Underneath Relational Databases](https://miro.medium.com/max/1400/1*-E07mhLIv0B7OQ41vTj-6Q.jpeg)](https://starlightromero.medium.com/the-data-structures-underneath-relational-databases-9950797a88ac)
