@@ -19,6 +19,3 @@ Starlight Romero is a DevOps Engineer currently pursuing an Applied Bachelor's o
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/starlight-romero-40a3a21b1)](https://www.linkedin.com/in/starlight-romero-40a3a21b1)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/starlightromero)](https://github.com/starlightromero)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/starlightromero)](https://gitlab.com/starlightromero)
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
