@@ -10,6 +10,8 @@ Starlight Romero is a DevOps Engineer currently pursuing an Applied Bachelor's o
 
 [![FigureFinance](https://raw.githubusercontent.com/Figure-Finance/figure/production/frontend/public/logo512.png)](https://figurefinance.tk)
 
+<a href="https://figurefinance.tk"><img src="https://raw.githubusercontent.com/Figure-Finance/figure/production/frontend/public/logo512.png" alt="FigureFinance" width="48"></a>
+
 ## Articles
 
 [![The Data Structures Underneath Relational Databases](https://miro.medium.com/max/1400/1*-E07mhLIv0B7OQ41vTj-6Q.jpeg)](https://starlightromero.medium.com/the-data-structures-underneath-relational-databases-9950797a88ac)
