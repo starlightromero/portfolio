@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Starlight Romero
 
-You can use the [editor on GitHub](https://github.com/starlightromero/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Starlight Romero is a DevOps Engineer currently pursuing an Applied Bachelor's of Computer Science at Make School in San Francisco. Intrigued and energized by digital privacy, blockchain, and automation pipelines, Starlight aims to develop systems that revolutionize the ways that companies and societies work. It is the simple systems that impact people most frequently and shape people's reality. By improving the systems people use everyday a change in productivity and economy can be achieved.
+
+![Starlight](https://media-exp1.licdn.com/dms/image/C5603AQG8o0QY1BPTPA/profile-displayphoto-shrink_200_200/0/1607629509909?e=1625097600&v=beta&t=1H17XnYve1wffX4KkAioa_-rbxbvnJNaAbakZbmEL0o)
+
+## Projects
+
+## Articles
+
+## Contact
+
+[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:starlightromero@protonmail.com)](mailto:starlightromero@protonmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/starlight-romero-40a3a21b1)](https://www.linkedin.com/in/starlight-romero-40a3a21b1)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/starlightromero)](https://github.com/starlightromero)
+[![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/starlightromero)](https://gitlab.com/starlightromero)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/starlightromero/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
