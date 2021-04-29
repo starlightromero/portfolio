@@ -2,8 +2,6 @@
 
 Starlight Romero is a DevOps Engineer currently pursuing an Applied Bachelor's of Computer Science at Make School in San Francisco. Intrigued and energized by digital privacy, blockchain, and automation pipelines, Starlight aims to develop systems that revolutionize the ways that companies and societies work. It is the simple systems that impact people most frequently and shape people's reality. By improving the systems people use everyday a change in productivity and economy can be achieved.
 
-![Starlight](https://media-exp1.licdn.com/dms/image/C5603AQG8o0QY1BPTPA/profile-displayphoto-shrink_200_200/0/1607629509909?e=1625097600&v=beta&t=1H17XnYve1wffX4KkAioa_-rbxbvnJNaAbakZbmEL0o)
-
 ## Projects
 
 <h3><a href="https://stockstalker.tk"><img src="https://raw.githubusercontent.com/Stock-Stalker/stockstalker/production/frontend/public/assets/icon/icon.png" alt="StockStalker" width="128"> StockStalker</a></h3>
