@@ -6,9 +6,9 @@ Starlight Romero is a DevOps Engineer currently pursuing an Applied Bachelor's o
 
 ## Projects
 
-<a href="https://stockstalker.tk"><img src="https://raw.githubusercontent.com/Stock-Stalker/stockstalker/production/frontend/public/assets/icon/icon.png" alt="StockStalker" width="128"> StockStalker</a>
+<h3><a href="https://stockstalker.tk"><img src="https://raw.githubusercontent.com/Stock-Stalker/stockstalker/production/frontend/public/assets/icon/icon.png" alt="StockStalker" width="128"> StockStalker</a></h3>
 
-<a href="https://figurefinance.tk"><img src="https://raw.githubusercontent.com/Figure-Finance/figure/production/frontend/public/logo512.png" alt="FigureFinance" width="128"> FigureFinance</a>
+<h3><a href="https://figurefinance.tk"><img src="https://raw.githubusercontent.com/Figure-Finance/figure/production/frontend/public/logo512.png" alt="FigureFinance" width="128"> FigureFinance</a></h3>
 
 ## Articles
 
